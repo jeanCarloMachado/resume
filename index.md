@@ -20,7 +20,7 @@ My goal is to create and maintain software that does some good in the world with
 
 ### Main skills
 
-* Software architect
+* Software Architect
   : To build systems with the balance between design and pragmatism that allows reasonable delivery dates with long-term sustainability.
 
 * Team Leader
