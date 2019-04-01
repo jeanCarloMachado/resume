@@ -62,7 +62,7 @@ Sabbis Informática - Informatics Teacher
 ### Education
 
 Instituto Federal do Rio Grande do Sul
-: Análise e Desenvolvimento de Sistemas, Ciência da
+: Análise e Desenvolvimento de Sistemas
 __2010 - 2015__
 
 UDESC
