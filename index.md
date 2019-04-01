@@ -27,7 +27,7 @@ M goal is to create and maintain software that does some good in the world with 
   : Teams are bigger than individuals. I conscientiously look for ways to empower, support and inspire people around me.
 
 * Teacher
-  : I am passionate about technology and science and want to share it.
+  : I am passionate about technology and science and I share it.
 
 ---
 
