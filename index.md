@@ -14,7 +14,7 @@
 
 ### Summary
 
-As a software engineer my goal is to create and maintain software that does some good in the world with high quality and timely delivery. To have a nice time learning and sharing while working with amazing people.  I care about humanism and science.
+M goal is to create and maintain software that does some good in the world with high quality and timely delivery. To have a nice time learning and sharing while working with amazing people.  I care about humanism and science.
 
 ---
 
@@ -37,7 +37,7 @@ GetYourGuide - Senior Backend Engineer
   :  __2018 - Present__
   Working with recommendations systems, search, API's.
 
-CompuFácil - Principal Engineer/CTO
+CompuFácil - From Backend Engineer to CTO
  : __2014 - 2017__
   Modeling api's, creating all the product architecture, leading, hiring, firing.
 
