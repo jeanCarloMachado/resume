@@ -14,7 +14,7 @@
 
 ### Summary
 
-M goal is to create and maintain software that does some good in the world with high quality and timely delivery. To have a nice time learning and sharing while working with amazing people.  I care about humanism and science.
+My goal is to create and maintain software that does some good in the world with high quality and timely delivery. To have a nice time learning and sharing while working with amazing people.  I care about humanism and science.
 
 ---
 
