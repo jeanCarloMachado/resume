@@ -112,4 +112,6 @@ __2009 - 2010__
 * Elm
 * Clojure
 * Ruby
+* Erlang
 * Haskell
+* Digital Eletronics
