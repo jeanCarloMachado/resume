@@ -116,3 +116,8 @@ __2009 - 2010__
 * Clojure
 * Haskell
 * Digital Eletronics
+
+
+### Contact info
+
+> [Latest cv](https://github.com/jeanCarloMachado/resume/blob/master/index.pdf)
