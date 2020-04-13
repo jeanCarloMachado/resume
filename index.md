@@ -1,5 +1,7 @@
 # Jean C. Machado
 
+> [Latest cv](https://github.com/jeanCarloMachado/resume/blob/master/index.pdf)
+
 <br>
 
 
@@ -7,7 +9,6 @@
 
 > jeancarlomachado.net, Berlin
 
-> [Latest cv](https://github.com/jeanCarloMachado/resume/blob/master/index.pdf)
 
 ## Senior Backend Engineer at Get Your Guide - Recommendations
 
