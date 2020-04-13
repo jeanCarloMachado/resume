@@ -20,14 +20,14 @@ As a software engineer my goal is to create and maintain data products at scale 
 
 ### Main skills
 
-* Software Architect
+* Software Architecture
   : To build systems with the balance between design and pragmatism that allows reasonable delivery dates with long-term sustainability.
 
 * Team Leader
   : Teams are bigger than individuals. I conscientiously look for ways to empower, support and inspire people around me.
 
-* Teacher
-  : I am passionate about technology and science and I share it.
+* Speaker & Community organizer
+  : I am passionate about technology and serve as an advocate by doing talks and organizing events.
 
 ---
 
