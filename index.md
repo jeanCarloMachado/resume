@@ -7,14 +7,14 @@
 
 > jeancarlomachado.net, Berlin
 
-## Senior Backend Engineer at Get Your Guide - Search and Recommendations
+## Senior Backend Engineer at Get Your Guide - Recommendations
 
 
 ---
 
 ### Summary
 
-My goal is to create and maintain software that does some good in the world with high quality and timely delivery. To have a nice time learning and sharing while working with amazing people.  I care about humanism and science.
+As a software engineer my goal is to create and maintain data products at scale that improves the world with high quality and timely delivery. To have a nice time sharing and learning while working with amazing people. I care about humanism and science. Programmer, teacher.
 
 ---
 
@@ -35,7 +35,11 @@ My goal is to create and maintain software that does some good in the world with
 
 GetYourGuide - Senior Backend Engineer
   :  __2018 - Present__
-  Working with recommendations systems, search, API's.
+    Happy to be part of GYG and solve the travelers problems at a different scale.
+Working with Python, Java, Scala and PHP to split the monolith in multiple services.
+Defining and leading the implementation of the technology vision of our data-product in the recommendations team.
+Up-leveling the product with personalized recommendations and virtual products all proved by AB tests.
+Working with online and offline models with heavy amounts of data using spark.
 
 CompuFácil - From Backend Engineer to CTO
  : __2014 - 2017__
