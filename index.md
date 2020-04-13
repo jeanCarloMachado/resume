@@ -4,7 +4,7 @@
 <br>
 
 
-> [Latest cv](https://github.com/jeanCarloMachado/resume/blob/master/index.pdf)
+[Latest cv](https://github.com/jeanCarloMachado/resume/blob/master/index.pdf)
 
 > jeancarlomachado.net, Berlin
 
