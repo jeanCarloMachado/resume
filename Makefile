@@ -3,7 +3,7 @@ buildAndShip: pdf
 	git commit -m 'new version'
 	git push origin master
 
-pdf: view
+pdf:
 	docker run -v ${PWD}:/resume there4/markdown-resume md2resume pdf --template modern /resume/index.md /resume/
 
 view:
