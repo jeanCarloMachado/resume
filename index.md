@@ -97,25 +97,19 @@ __2009 - 2010__
 
 ### Skills
 
-* Agile
-* DDD
+* Domain Driven Design
 * AB testing
 * Python
 * Linux
-* TDD
 * Functional Programming
+* Test driven development
 * OOP
-* AOP
-* Git
 * Bash
+* Git
 * Kubernetes
 * PHP
 * C
-* Go
-* Javascript
 * Elm
 * Clojure
-* Ruby
-* Erlang
 * Haskell
 * Digital Eletronics
