@@ -118,6 +118,3 @@ __2009 - 2010__
 * Digital Eletronics
 
 
-### Contact info
-
-> [Latest cv](https://github.com/jeanCarloMachado/resume/blob/master/index.pdf)
