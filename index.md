@@ -97,23 +97,28 @@ __2009 - 2010__
 
 ---
 
-### Skills
+### Open source
+
+Contributed to many open-source projects including the php-src the Doctrine ORM and others.
+
+---
+
+### Tech
 
 * Domain Driven Design
+* Spark / Databricks
+* Kafka
 * AB testing
 * Python
 * Linux
 * Functional Programming
-* Test driven development
-* OOP
-* Bash
-* Git
+* TDD
 * Kubernetes
-* PHP
 * C
-* Elm
+* Scala
+* Java
 * Clojure
-* Haskell
-* Digital Eletronics
+* PHP
+* Digital Electronics
 
 
