@@ -4,7 +4,7 @@
 <br>
 
 
-> contato@jeancarlomachado.com.br,
+> machado.c.jean@gmail.com,
 
 > jeancarlomachado.net, Berlin
 
@@ -44,9 +44,9 @@ Defining and leading the implementation of the technology vision of our data-pro
 Up-leveling the product with personalized recommendations and virtual products all proved by AB tests.
 Working with online and offline models with heavy amounts of data using spark.
 
-CompuFácil - From Backend Engineer to CTO
+CompuFácil - From Backend Engineer to Principal Engineer
  : __2014 - 2017__
-  Modeling api's, creating all the product architecture, leading, hiring, firing.
+  Building a container cluster from the ground up, creating all the product architecture, leading, hiring.
 
 CUB - Backend Developer
  : __2012 - 2014__
