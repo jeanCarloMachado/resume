@@ -4,14 +4,13 @@
 <br>
 
 
-> machado.c.jean@gmail.com,
+> machado.c.jean@gmail.com
 
 > jeancarlomachado.net, Berlin
 
 > [Latest cv](https://github.com/jeanCarloMachado/resume/blob/master/index.pdf)
 
-## Senior Backend Engineer at Get Your Guide - Recommendations
-
+## Senior Backend Engineer at Get Your Guide - Recommendations and Relevance
 
 ---
 
@@ -23,7 +22,7 @@ As a software engineer my goal is to create and maintain data products at scale 
 
 ### Main skills
 
-* Software Architecture
+* Software & Data Architecture
   : To build systems with the balance between design and pragmatism that allows reasonable delivery dates with long-term sustainability.
 
 * Team Leader
