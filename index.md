@@ -16,7 +16,7 @@
 
 ### Summary
 
-As a software engineer my goal is to create and maintain data products at scale that improves the world with high quality and timely delivery. To have a nice time sharing and learning while working with amazing people. I care about humanism and science. Programmer, teacher.
+My goal is to create and maintain data products at scale that improves the world with high quality and timely delivery. To have a nice time sharing and learning while working with amazing people. I care about humanism and science.
 
 ---
 
@@ -38,14 +38,15 @@ As a software engineer my goal is to create and maintain data products at scale 
 GetYourGuide - Senior Backend Engineer
   :  __2018 - Present__
     Happy to be part of GYG and solve the travelers problems at a different scale.
-Working with Python, Java, Scala and PHP to split the monolith in multiple services.
-Defining and leading the implementation of the technology vision of our data-product in the recommendations team.
-Up-leveling the product with personalized recommendations and virtual products all proved by AB tests.
-Working with online and offline models with heavy amounts of data using spark.
+    Defining our recommendations architecture, service, data-stores, events, pipelines. 
+    Implementing and maintaining our production recommendations service in Python.
+    Improving the CI/CD of our data pipelines services in Python and Scala.
+    Working to personalize our recommendations and ranking. 
 
-CompuFácil - From Backend Engineer to Principal Engineer
+CompuFácil - From Senior to Principal Engineer
  : __2014 - 2017__
   Building a container cluster from the ground up, creating all the product architecture, leading, hiring.
+  Built a microservices architecture with multiple domain based verticals with Python, Go and PHP.
 
 CUB - Backend Developer
  : __2012 - 2014__
@@ -105,15 +106,15 @@ Contributed to many open-source projects including the php-src the Doctrine ORM 
 
 ### Tech
 
-* Domain Driven Design
-* Spark / Databricks
-* Kafka
-* AB testing
 * Python
+* Kafka
 * Linux
+* AB testing
+* Spark / Databricks
 * Functional Programming
 * TDD
 * Kubernetes
+* Domain Driven Design
 * C
 * Scala
 * Java
