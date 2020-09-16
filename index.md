@@ -40,13 +40,13 @@ GetYourGuide - Senior Backend Engineer
     Happy to be part of GYG and solve the travelers problems at a different scale.
     Defining our recommendations architecture, service, data-stores, events, pipelines. 
     Implementing and maintaining our production recommendations service in Python.
-    Improving the CI/CD of our data pipelines services in Python and Scala.
+    Improving the architecture of our data pipelines services in Python and Scala.
     Working to personalize our recommendations and ranking. 
 
 CompuFácil - From Senior to Principal Engineer
  : __2014 - 2017__
   Building a container cluster from the ground up, creating all the product architecture, leading, hiring.
-  Built a microservices architecture with multiple domain based verticals with Python, Go and PHP.
+  Built a microservices architecture with multiple domain based verticals in Python, Go and PHP.
 
 CUB - Backend Developer
  : __2012 - 2014__
