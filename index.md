@@ -16,14 +16,14 @@
 
 ### Summary
 
-Working on the emergent field of Machine Learning Operations (MLOps).  Currently Designing and Building GetYourGuide's Machine Learning platform.  Designing and running data products at scale.
+Working on the emergent field of Machine Learning Operations (MLOps).  Currently Designing and Building GetYourGuide's Machine Learning Platform. Designing and running data products at scale.
 
 ---
 
 ### Main skills
 
 * Software Architecture
-  : To build systems with holistic thinking and incremental development that allows reasonable delivery dates with long-term sustainability.
+  : To build distributed systems with holistic thinking and incremental development that allows reasonable delivery dates with long-term sustainability.
 
 * Team Leader
   : Teams are bigger than individuals. I conscientiously look for ways to empower, support and inspire people around me.
