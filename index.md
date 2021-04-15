@@ -107,11 +107,12 @@ Contributed to many open-source projects including scikit-learn, Doctrine ORM an
 
 ### Tech
 
-* Python Stack
+* Python
 * Spark
 * Kafka
-* Linux
+* Airflow
 * Domain Driven Design
+* Linux
 * AB testing
 * Functional Programming
 * TDD
